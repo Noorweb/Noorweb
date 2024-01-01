@@ -1,0 +1,35 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 115%;
+}
+header{
+    background-color: rgb(209, 169, 248);
+}
+nav{
+    background-color: rgb(210, 209, 209);
+}
+main{
+    background-color: rgb(242, 255, 192);
+    font-size: 115%;
+}
+footer {
+    background-color: rgb(185, 32, 212);
+
+}
+li{
+   display: flex;
+   width: auto;
+}
+h1{ 
+    color: rgb(117, 9, 153);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+p {
+    line-height: 1.5em;
+    color: rgb(15, 15, 11);
+    font-size: 24px;
+    background-color: rgb(242, 255, 192);
+}
+
